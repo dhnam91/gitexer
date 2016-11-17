@@ -1,0 +1,2 @@
+the first line was replaced with it.
+the second line is added.
