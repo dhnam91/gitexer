@@ -1,2 +1,0 @@
-this is file 2
-i added it after file1.txt is changed.
